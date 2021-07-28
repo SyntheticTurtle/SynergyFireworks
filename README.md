@@ -11,13 +11,13 @@ John N
 notes: Started on my ERD
 
 John D
-notes: ERD for model similar to DnD Beyond
+notes:
 
 Lisa J
 notes: Started on my ERD, picked Zoo as buisness model.
 
 Nolan T
-notes:
+notes: Worked on some badges on Trailhead, brainstorming an idea for a business model
 
 Tommy N
 notes: Doing a few badges on Trailhead.
