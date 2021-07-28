@@ -8,13 +8,13 @@ Emanuel U
 notes: BusinessModel for Sandwich shop
 
 John N
-notes:
+notes: Started on my ERD
 
 John D
 notes:
 
 Lisa J
-notes: something
+notes:
 
 Nolan T
 notes:
