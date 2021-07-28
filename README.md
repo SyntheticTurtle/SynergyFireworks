@@ -11,7 +11,7 @@ John N
 notes: Started on my ERD
 
 John D
-notes:
+notes: ERD for model similar to DnD Beyond
 
 Lisa J
 notes: Started on my ERD, picked Zoo as buisness model.
