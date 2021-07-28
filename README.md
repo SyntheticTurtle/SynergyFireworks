@@ -2,7 +2,7 @@
 
 Stand Up Notes
 
-Date 7/27/2021
+Date 7/28/2021
 
 Emanuel U
 notes: BusinessModel for Sandwich shop
