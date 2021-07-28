@@ -14,7 +14,7 @@ John D
 notes:
 
 Lisa J
-notes:
+notes: Started on my ERD, picked Zoo as buisness model.
 
 Nolan T
 notes:
