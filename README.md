@@ -14,7 +14,7 @@ John D notes:
 
 7/28 ERD- DnD Beyond model
 
-7/29- Premise establised 
+7/29- Did some badges. Premise establised 
 
 Lisa J notes: 
 7/28 Started on my ERD, picked Zoo as buisness model.
