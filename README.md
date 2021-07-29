@@ -23,6 +23,8 @@ Lisa J notes:
 Nolan T
 notes: Worked on some badges on Trailhead, brainstorming an idea for a business model
 
+7/29 Chose a restaurant as a business model, started coming up with some objects for this model
+
 Tommy N
 notes: Doing a few badges on Trailhead.
 Started thinking about what business to do for Project0, possibly a frozen yogurt shop
