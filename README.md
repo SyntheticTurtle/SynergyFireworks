@@ -16,8 +16,9 @@ John D notes:
 
 7/29- Premise establised 
 
-Lisa J
-notes: Started on my ERD, picked Zoo as buisness model.
+Lisa J notes: 
+7/28 Started on my ERD, picked Zoo as buisness model.
+7/29 switched buisness model to daycare.
 
 Nolan T
 notes: Worked on some badges on Trailhead, brainstorming an idea for a business model
