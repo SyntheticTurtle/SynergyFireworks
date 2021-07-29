@@ -11,7 +11,9 @@ John N
 notes: Started on my ERD
 
 John D
-notes: ERD- DnD Beyond model-> Premise: a online site for local boardgame stores to sell products and subscriptions to host things like dnd modules. owners, customers: free and paid subscriptions, players, game master 
+notes: 
+7/28 ERD- DnD Beyond model
+7/29- Premise: a online site for local boardgame stores to sell products and subscriptions to host things like dnd modules. owners, customers: free and paid subscriptions, players, game master 
 
 Lisa J
 notes: Started on my ERD, picked Zoo as buisness model.
