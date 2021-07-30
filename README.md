@@ -26,6 +26,8 @@ notes: Worked on some badges on Trailhead, brainstorming an idea for a business 
 
 7/29 Chose a restaurant as a business model, started coming up with some objects for this model
 
+7/30 Switched from a restaurant business model to an online computer parts store, made an ERD for this business model
+
 Tommy N
 notes: 
 7/28 Doing a few badges on Trailhead, Started thinking about what business to do for Project0, possibly a frozen yogurt shop
