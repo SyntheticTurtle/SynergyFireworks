@@ -8,7 +8,8 @@ Emanuel U
 notes: BusinessModel for Sandwich shop
 
 John N
-notes: Started on my ERD
+notes: Started on my ERD- 
+7-30- ERD outline done
 
 John D notes:
 
