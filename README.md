@@ -20,6 +20,7 @@ John D notes:
 Lisa J notes: 
 7/28 Started on my ERD, picked Zoo as buisness model.
 7/29 switched buisness model to daycare.
+7/30 still working on ERD
 
 Nolan T
 notes: Worked on some badges on Trailhead, brainstorming an idea for a business model
