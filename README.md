@@ -32,4 +32,4 @@ Tommy N
 notes: 
 7/28 Doing a few badges on Trailhead, Started thinking about what business to do for Project0, possibly a frozen yogurt shop
 7/29 Continued working on badges on Trailhead, Started coming up with objects for ERD
-7/30 Continued working on Trailhead badge, Made ERD for Project0
+7/30 Continued working on Trailhead badges, Made ERD for Project0
