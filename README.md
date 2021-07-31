@@ -10,6 +10,7 @@ notes: BusinessModel for Sandwich shop
 **John N**
 notes: Started on my ERD- 
 7-30- ERD outline done
+7-31- rough draft of Security profile done
 
 **John D** notes:
 
