@@ -19,7 +19,7 @@ notes: Started on my ERD-
 7/29- Did some badges. Premise establised
 7/29- ERD done
 7/30- p0 in Salesforce 
-
+8/2- struggled with meeting p0 goals for today
 
 **Lisa J **notes: 
 7/28 Started on my ERD, picked Zoo as buisness model.
