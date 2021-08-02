@@ -15,9 +15,10 @@ notes: Started on my ERD-
 
 **John D** notes:
 
-7/28 ERD- DnD Beyond model
+7/28 brainstorm ERD- dnd beyond model
 7/29- Did some badges. Premise establised
 7/29- ERD done
+7/30- p0 in Salesforce 
 
 
 **Lisa J **notes: 
